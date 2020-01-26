@@ -44,7 +44,7 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   
-  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+  gem 'bootstrap-sass', '~> 3.4'
   gem 'jquery-rails'
   gem 'faker', '~> 1.9', '>= 1.9.1'
 end
